@@ -1,3 +1,1 @@
-# Epi207
-
-My first repo
+# EPIDEM207-2022
