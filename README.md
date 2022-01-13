@@ -1,23 +1,10 @@
 # EPIDEM207-2022
-*This file serves as a template for a README.md for a project.*
+## Reproducibility in Epidemiologic Research
+This repository is for learning and practising a principle of reproducible research using data from an article published by Kim SH et.al.  
 
-*Copy-paste below the line and make edits to fit your own project.*
-
----------
-
-## Project title
-Project description: A little info about your project and/ or overview that explains **what** the project is about. You can also explain **why** the project exists. You can mention this is for coursework too. 
-
-## Features
-What makes your project stand out?
-
-## Acknowledgments
-Give proper credit to resources you used in this project. This could be a link to any repo which inspired you to build this project, any blogposts, or links to people who contrbuted in this project. 
-
-## Anything else that seems useful
-
+## Original article
+Kim SH, Jeong JB, Kang J, Ahn DW, Kim JW, Kim BG, et al. Association between sarcopenia level and metabolic syndrome. PLoS One [Internet]. 2021;16(3 March):1–15. Available from: http://dx.doi.org/10.1371/journal.pone.0248856
 
 ## Created by
-* [@jyixzhou](https://github.com/jyixzhou)
-
-*E-MAIL/PHONE*
+Anupong Sirirungreung\
+anusiri@g.ucla.edu
